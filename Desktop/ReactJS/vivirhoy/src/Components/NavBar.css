@@ -1,0 +1,22 @@
+.Navigation {
+    display: flex;
+    background-color:white;
+    color: white;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 50px;
+    color:black;
+    margin: 10px;
+  }
+  
+  ul {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+  }
+  
+  ul li {
+    list-style-type: none;
+    
+  }
+  
